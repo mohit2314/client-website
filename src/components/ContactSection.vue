@@ -42,7 +42,7 @@
                     </div>
                 </div>
             </div>
-            <div style="color: #fff;" class="enterprise-footer__text">© 2023, Brand name. All Rights Reserved.</div>
+            <div style="color: #fff;" class="enterprise-footer__text">© 2023, TechNex Solutions. All Rights Reserved.</div>
         </section>
     </div>
 </template>

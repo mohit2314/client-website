@@ -5,7 +5,7 @@
     <q-img width="54px" src="../assets/brand-logo.svg"></q-img>
 
         <q-toolbar-title>
-          Brand Name
+          TechNex Solutions
         </q-toolbar-title>
         <q-space />
 
