@@ -58,7 +58,8 @@ let testimonials = [
 
 .testimonial-section {
     text-align: center;
-
+    // background-color: #f2faf5;
+    padding-bottom: 3.5rem;
     .header {
         font-size: 2.0rem;
         font-weight: 500;
