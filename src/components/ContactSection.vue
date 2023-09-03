@@ -7,9 +7,8 @@
         </svg>
         <section class="enterprise-section" id="contact">
             <div class="enterprise-section__wrapper">
-                <div class="enterprise-heading">Ready for Enterprises</div>
-                <div class="enterprise-description">Brand name supports unlimited customization of UI to meet the diverging
-                    needs of Enterprises.</div>
+                <div class="enterprise-heading">Get in Touch - Let's Shape the Future Together</div>
+                <div class="enterprise-description">Ready to embark on a journey of innovation? Whether you have questions about our services, want to discuss a project, or simply want to explore the possibilities, our team is here to assist you. Drop us a message, and let's start shaping the future of your business today.</div>
                 <div class="expertise-section__information-wrapper">
                     <div class="enterprise-section__circle-illustration --one"></div>
                     <div class="enterprise-section__circle-illustration --two"></div>
@@ -42,7 +41,7 @@
                     </div>
                 </div>
             </div>
-            <div style="color: #fff;" class="enterprise-footer__text">© 2023, TechNex Solutions. All Rights Reserved.</div>
+            <div style="color: #fff;" class="enterprise-footer__text">© 2023, Global Cloud Infotech Services LLP. All Rights Reserved.</div>
         </section>
     </div>
 </template>

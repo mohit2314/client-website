@@ -5,7 +5,7 @@
     <q-img width="54px" src="../assets/brand-logo.svg"></q-img>
 
         <q-toolbar-title>
-          TechNex Solutions
+          Global Cloud Infotech Services LLP
         </q-toolbar-title>
         <q-space />
 
