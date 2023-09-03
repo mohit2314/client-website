@@ -35,17 +35,17 @@ let testimonials = [
     {
         name: '- Emily Watson',
         designation: ' CEO, DataWave Analytics',
-        comment: '“TechNex Solutions revolutionized our approach to technology. Their Python expertise transformed our data analysis capabilities, giving us a competitive edge in the market.”'
+        comment: '“Global Cloud Infotech Services revolutionized our approach to technology. Their Python expertise transformed our data analysis capabilities, giving us a competitive edge in the market.”'
     },
     {
         name: '- Michael Chen',
         designation: ' CTO, CloudMinds Inc.',
-        comment: '“The AWS solutions provided by TechNex Solutions enhanced our scalability and reduced operational complexities. Partnering with them was a game-changer for our business.”'
+        comment: '“The AWS solutions provided by Global Cloud Infotech Services enhanced our scalability and reduced operational complexities. Partnering with them was a game-changer for our business.”'
     },
     {
         name: '- Sarah Rodriguez',
         designation: 'Director of Engineering, NexGen Software',
-        comment: '“DevOps seemed like a distant dream until we collaborated with TechNex Solutions. Their strategies streamlined our development pipeline, increasing efficiency and collaboration.”'
+        comment: '“DevOps seemed like a distant dream until we collaborated with Global Cloud Infotech Services. Their strategies streamlined our development pipeline, increasing efficiency and collaboration.”'
     }
     // Add more testimonials as needed
 ]

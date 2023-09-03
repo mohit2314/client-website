@@ -5,7 +5,7 @@
             <span class="header q-pb-md">About Us</span>
         </div>
         <div class="content">
-            At TechNex Solutions, we believe that technology holds the key to unlocking infinite possibilities. Our journey began with a vision to bridge the gap between businesses and technology, and today, we stand as a leading IT company committed to delivering transformative solutions. With a team of dedicated experts and a customer-centric approach, we take pride in driving digital evolution for our clients.
+            At Global Cloud Infotech Services, we believe that technology holds the key to unlocking infinite possibilities. Our journey began with a vision to bridge the gap between businesses and technology, and today, we stand as a leading IT company committed to delivering transformative solutions. With a team of dedicated experts and a customer-centric approach, we take pride in driving digital evolution for our clients.
         </div>
         <q-btn @click="scrollToSection('contactSection')" class="q-mt-lg " style="background: #194a70;color:#fff" label="Contact Us" />
 

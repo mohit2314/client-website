@@ -14,7 +14,7 @@
       >
         <q-carousel-slide class="column flex-center" :name="1" img-src="https://cdn.quasar.dev/img/mountains.jpg" >
         <div class="text-center">
-         <div class="text-h4" style="color: #fff;"> Welcome to TechNex Solutions</div>
+         <div class="text-h4" style="color: #fff;"> Welcome to Global Cloud Infotech Services</div>
          <div class="text-h6 q-pa-md" style="color: #fff;">Your Path to Innovation and Excellence</div>
         </div>
         </q-carousel-slide>
